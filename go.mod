@@ -1,3 +1,3 @@
-module github.com/quickfixgo/enum
+module github.com/terracefi/enum
 
 go 1.16
